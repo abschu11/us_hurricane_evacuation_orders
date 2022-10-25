@@ -23,6 +23,6 @@ This dataset contains hurricane evacuation order information collected during a 
 
 ## Data Limitations
 * Mandatory evacuation orders only (voluntary is a work in progress)
-* Collected by a singler person (Andrea Schumacher). Although I tried to use a consistent search strategy, the focus was on gathering the best data possible for our research and not necessarily repeatability and reproducibility.  
+* Collected by a single person (Andrea Schumacher). Although I tried to use a consistent search strategy, the focus was on gathering the best data possible for our research and not necessarily repeatability and reproducibility.  
 * Gathered at county level. There is supplementary information included via text and files that can help users interpret to finer spatial scales, but overall the dataset is most useful in its current form for county-level analyses.
 * Missing many end times. However, users can fill in missing values with times that work for their analyses (for us, that was the end times of our survey waves)
