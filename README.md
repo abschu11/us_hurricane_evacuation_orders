@@ -1,6 +1,8 @@
 # U.S. Hurricane Evacuation Orders Dataset
 ## Overview
-This dataset contains hurricane evacuation order information collected during a 3-year study conducted by the National Center for Atmospheric Research (NCAR, https://ncar.ucar.edu/) and funded by NOAA/WPO.  These datasets were hand-collected and curated by Andrea Schumacher (andreasch@ucar.edu) for use in our study, and are being shared here for use in other research related to these cases.
+This dataset contains hurricane evacuation order information collected during a 3-year study conducted by the National Center for Atmospheric Research (NCAR, https://ncar.ucar.edu/) and funded by NOAA/WPO.  These datasets were hand-collected and curated by Andrea Schumacher (andreasch@ucar.edu) for use in our study, and are being shared here for use in other research related to these cases.  **If you use this data, please use the following citation:**
+
+[![DOI](https://zenodo.org/badge/557408710.svg)](https://zenodo.org/badge/latestdoi/557408710)
 
 ## Cases:
 * Ian 2022 - *This is a limited early release of Ian data to expedite research. More cases coming soon!*
@@ -24,6 +26,3 @@ This dataset contains hurricane evacuation order information collected during a 
 * Collected by a singler person (Andrea Schumacher). Although I tried to use a consistent search strategy, the focus was on gathering the best data possible for our research and not necessarily repeatability and reproducibility.  
 * Gathered at county level. There is supplementary information included via text and files that can help users interpret to finer spatial scales, but overall the dataset is most useful in its current form for county-level analyses.
 * Missing many end times. However, users can fill in missing values with times that work for their analyses (for us, that was the end times of our survey waves)
-
-## Citation
-[![DOI](https://zenodo.org/badge/557408710.svg)](https://zenodo.org/badge/latestdoi/557408710)
