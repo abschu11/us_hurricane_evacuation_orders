@@ -1,6 +1,6 @@
 # U.S. Hurricane Evacuation Orders Dataset
 ## Overview
-This dataset contains hurricane evacuation order information collected during a 3-year study conducted by the National Center for Atmospheric Research (NCAR, https://ncar.ucar.edu/) and funded by NOAA/WPO.  These datasets were hand-collected and curated by Andrea Schumacher (andreasch@ucar.edu) for use in our study, and are being shared here for use in other research related to these cases.  **If you use this data, please use the following citation:**
+This dataset contains hurricane evacuation order information collected during a 3-year study conducted by the National Center for Atmospheric Research (NCAR, https://ncar.ucar.edu/) and funded by NOAA/WPO.  **Evacuation orders were only collected for the time period leading up to landfall - orders may have been ordered after landfall that are not reflected in this dataset.** These datasets were hand-collected and curated by Andrea Schumacher (andreasch@ucar.edu) for use in our study, and are being shared here for use in other research related to these cases.  **If you use this data, please use the following citation:**
 
 [![DOI](https://zenodo.org/badge/557408710.svg)](https://zenodo.org/badge/latestdoi/557408710)
 
