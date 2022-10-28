@@ -17,7 +17,7 @@ This dataset contains hurricane evacuation order information collected during a 
 * END TIME, UTC - The time of the end of the evacuation order.  End times (also referred to as times rescinded or lifted) were not always available, so left blank if an end time was not found. Format is YYYYMMDDHHHH, where YYYY = year, MM = month, DD = day, and HH = hour. Given as Coordinated Universal Time (UTC).  NOT LOCAL TIME.  NOTE: in some cases, only the day was found for the end of order.  In those cases the last minute of the day (2359) was used.
 * SUPPLEMENTAL FILES - When an official evacuation document or news release was found, the file was saved.  These files are located in the subfolder "supplemental_files".
 * URL - Sources used to determine evacuation information.
-* ZONE(S) - The specific spatial zones or areas under the evacuation order (often, but not always, pre-defined as in FL)
+* ZONE(S) - The specific spatial zones or areas under the evacuation order for all residents (often, but not always, pre-defined as in FL)
 * VULNERABILITY TAGS - Many U.S. evacuation orders include different types of evacuations; 1) blanket evacuations of all people within specific areas and 2) evacuations of people with specific vulnerabilities (e.g., living in unsafe structures, being registered as having special needs, or living in areas prone to or with a history of flooding) within a larger area (often county-wide).
 * NOTES - My own notes taken during the data collection process. These may include more specific information about evacuation zones/areas, language used in the orders, etc.
 
